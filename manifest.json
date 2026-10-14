@@ -1,0 +1,24 @@
+{
+  "name": "MacroFit Pro — Calculadora de Comidas y Macronutrientes",
+  "short_name": "MacroFit Pro",
+  "description": "Planificador deportivo interactivo de comidas diarias y calculadora de macronutrientes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "categories": [
+    "health",
+    "fitness",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
